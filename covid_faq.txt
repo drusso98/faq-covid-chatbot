@@ -1,0 +1,5 @@
+who,https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19
+hopkins,https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus
+nicd,https://www.nicd.ac.za/diseases-a-z-index/covid-19/frequently-asked-questions/
+nsw,https://www.health.nsw.gov.au/Infectious/covid-19/Pages/frequently-asked-questions.aspx#1-1
+penn,https://www.pennmedicine.org/coronavirus/frequently-asked-questions-about-covid-19

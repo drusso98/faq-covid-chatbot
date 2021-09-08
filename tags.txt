@@ -1,0 +1,17 @@
+definition
+symptoms
+implications
+risk
+long_term_effects
+protections
+when_test
+what_test
+rapid_test
+past
+isolation_quarantine
+exposed
+symptoms_time
+vaccine
+what_to_do
+treatments
+antibiotics
